@@ -1,5 +1,5 @@
 # Welcome to the FlightGear Flight Simulator project.
-===================================================
+
 
 The primary web page for this project is: http://www.flightgear.org
 
