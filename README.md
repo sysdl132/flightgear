@@ -34,4 +34,4 @@ group of volunteers.  FlightGear is a work in progress.  FlightGear
 comes with no warrantee.  We hope you enjoy FlightGear and/or find it
 of some value!
 
-#### this is a mirror for china user.see: [undefined]
+#### this is a mirror for china user.see: [gitee](https://gitee.com/sysdl132/flightgear/tree/latest)
