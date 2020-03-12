@@ -1,4 +1,4 @@
-Welcome to the FlightGear Flight Simulator project.
+# Welcome to the FlightGear Flight Simulator project.
 ===================================================
 
 The primary web page for this project is: http://www.flightgear.org
@@ -33,3 +33,5 @@ FlightGear is a product of the collaboration of large international
 group of volunteers.  FlightGear is a work in progress.  FlightGear
 comes with no warrantee.  We hope you enjoy FlightGear and/or find it
 of some value!
+
+#### this is a mirror for china user.see: [undefined]
