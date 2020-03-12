@@ -1,5 +1,6 @@
 # Welcome to the FlightGear Flight Simulator project.
 
+if china user download too slow,[click me.](https://github.com/sysdl132/flightgear#this-is-a-mirror-for-china-usersee-gitee)
 
 The primary web page for this project is: http://www.flightgear.org
 
